@@ -1,7 +1,5 @@
 # minimal_login
 
-<video src='https://www.youtube.com/watch?v=QaHbtTnMn2s&ab_channel=MohammadAamir' width=180/>
-
 This is a simple yet cool Login & Registration example of a Flutter app. This uses Google Sign In, Firebase Authentication. Facebook login is on the way. 
 
 ## Getting Started
