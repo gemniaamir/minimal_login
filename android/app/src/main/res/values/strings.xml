@@ -1,0 +1,6 @@
+<resources>
+    <string name="facebook_app_id">478332677480980</string>
+    <string name="app_name">Minimal Login</string>
+    <string name="fb_login_protocol_scheme">fb478332677480980</string>
+    <string name="facebook_client_token">52099bb239d02f8900dd575da8e8b490</string>
+</resources>

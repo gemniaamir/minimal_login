@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "980611337582",
+    "project_id": "socialloginapps-a7f1f",
+    "storage_bucket": "socialloginapps-a7f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980611337582:android:5cb3f2b3718d581dac057f",
+        "android_client_info": {
+          "package_name": "com.digitzepk.minimal_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980611337582-vrosbbrsk3cslral8u1bn7u11rie7ofp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDfqRns-56FKJObdVf3x2srmP0woiuEUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980611337582-vrosbbrsk3cslral8u1bn7u11rie7ofp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980611337582-eqt7sra4ajkruvumo1k2oo6niafm265q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.minimalLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
